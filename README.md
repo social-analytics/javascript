@@ -8,4 +8,5 @@
   
 ## Module
   - **Design Patterns**
-    + See http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
+    + Module Pattern, see http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
+    + Pass JQuery as Parameter, see http://stackoverflow.com/questions/10371539/why-define-anonymous-function-and-pass-jquery-as-the-argument
