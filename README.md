@@ -19,3 +19,6 @@
 ##Javascript Comments Style
   - See http://usejsdoc.org/ 
   - See https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml#Comments
+
+##Async vs Sync 
+- [Video by famous TW developer TonyQ](https://www.youtube.com/watch?v=RK3BUVh_MKo)
