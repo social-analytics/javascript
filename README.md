@@ -23,3 +23,4 @@
 
 ##Async vs Sync 
 - [Video by famous TW developer TonyQ](https://www.youtube.com/watch?v=RK3BUVh_MKo)
+- Recommended by Sabrina http://blog.getify.com/promises-part-1/
